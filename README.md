@@ -12,5 +12,3 @@ inflearn
 실전! 스프링 데이터 JPA
 
 실전! Querydsl
-
-코드 따라하기
